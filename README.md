@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm an engineer/researcher who is passionate about learning of technology and its practice.
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otokunaga2](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **otokunaga2/otokunaga2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
