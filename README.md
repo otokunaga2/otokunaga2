@@ -1,5 +1,5 @@
 Hi there!
-I'm an engineer/researcher who is passionate about learning of technology and its practice.  
+I'm an engineer/researcher who is passionate about learning of technology and contribute to society.  
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=otokunaga2&layout=compact)
 
